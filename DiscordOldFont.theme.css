@@ -5,3 +5,9 @@
   --font-display: 'Whitney', 'Whitney Book', sans-serif;
   --font-headline: 'Whitney', 'Whitney Book', sans-serif;
 }
+body, h1, h2, h3, h4, h5, h6, p, div, span, input, textarea, select, button {
+  font-family: 'Whitney', 'Whitney Book', sans-serif;
+}
+[data-text-variant] {
+  font-family: 'Whitney', 'Whitney Book', sans-serif;
+}
