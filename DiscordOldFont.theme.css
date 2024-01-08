@@ -1,3 +1,11 @@
+/**
+ * @name DiscordOldFont
+ * @description A theme that brings back Discord's previous font.
+ * @author qxxst
+ * @website https://github.com/qxxst/DiscordOldFont
+ * @version 1.0
+ * @authorLink https://github.com/qxxst
+ */
 @import url('https://github.com/Vizzuality/wri/blob/master/app/public/fonts/whitney-book-webfont.woff?raw=true');
 :root {
   --font-primary: 'Whitney', 'Whitney Book', sans-serif;
